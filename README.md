@@ -10,7 +10,7 @@ Steps to install and run the project.
 
 Examples of how to use the project.
 
-### Authors
+## Authors
 
 - Talha Asama
 - Angel Gabriel Flores Martinez
